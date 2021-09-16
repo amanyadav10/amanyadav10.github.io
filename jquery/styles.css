@@ -1,0 +1,14 @@
+body {
+	font-family: sans-serif;
+}
+
+li {
+	margin-bottom: 0.5rem;
+}
+.cross {
+	display: inline-block;
+	color: red;
+	padding: 0.5rem;
+	border: 1px solid red;
+	cursor: pointer;
+}
